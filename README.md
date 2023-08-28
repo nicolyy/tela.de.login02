@@ -8,7 +8,9 @@ Tela de login com HTML e CSS desenvolvida como estudo de código.
 O Projeto foi desenvolvido com  base em videos da plataforma tiktok, com o objetivo de estudo
 de código CSS e HTML. 
 Ainda será adaptado com novas modificações
-
+> [!IMPORTANT]
+> Projeto não esta 100% responsivo
+> 
 ## Tecnologias Utilizadas
 HTML e CSS
 
